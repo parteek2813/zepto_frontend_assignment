@@ -32,14 +32,7 @@ Crafted with <span style="color: #8b0000;">&hearts;</span> by Parteek Kumar
 - `"react-dom": "^18.2.0",` - To interact with React's virtual DOM
 - `"react-icons": "^5.0.1",` - To have an icon library
 - `"react-router-dom": "^6.3.0",` - To implement routing features provided by React.js
-- `"recoil": "^0.7.7",` - To implement state management. Facebook Open Source, fast and performant for small projects.
 
-## ⏱ Page Load Time
-
-The Webapp loads in about 0.4 s to 0.6s. This is calculated by using Google Lighthouse tool in Chromium based browsers.
-_NOTE: The Lighthouse Audits scores are decreased because of preinstalled browser extensions that are non-removable in my system._
-
-<img width="1440" alt="Screenshot 2024-01-16 at 6 29 03 PM" src="https://github.com/KG-1510/zepto-frontend-task/assets/60519359/b264e6f0-d93b-4f28-8ec7-685cf31f643a">
 
 ## 🪜 Steps I took to optimize the page load time
 
