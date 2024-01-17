@@ -16,7 +16,7 @@ Crafted with <span style="color: #8b0000;">&hearts;</span> by Parteek Kumar
 
 ## View Demo on the Deployed Site 🚀
 
-<p>Click [https://zepto-frontend-task.netlify.app/](https://zepto-frontend-assignment-one.vercel.app/) to view the deployed site</p>
+<p>Click https://zepto-frontend-task.netlify.app/ to view the deployed site</p>
 
 ## 👨‍💻 Features
 
