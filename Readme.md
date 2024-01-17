@@ -16,8 +16,7 @@ Crafted with <span style="color: #8b0000;">&hearts;</span> by Parteek Kumar
 
 ## View Demo on the Deployed Site 🚀
 
-<p>Click https://zepto-frontend-task.netlify.app/ to view the deployed site</p>
-<img width="1436" alt="Screenshot 2024-01-16 at 6 27 04 PM" src="https://github.com/KG-1510/zepto-frontend-task/assets/60519359/e2f70d20-ecc9-418d-841b-39c26bbb9b41">
+<p>Click [https://zepto-frontend-task.netlify.app/](https://zepto-frontend-assignment-one.vercel.app/) to view the deployed site</p>
 
 ## 👨‍💻 Features
 
